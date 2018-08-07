@@ -7,3 +7,4 @@ Solving bugs in the APP and working on implementation.
 Literature review done with 1st and 2nd theme. 
 Proper formatting done 
 Research paper on tenancy apps
+Finalized the APP and solved bugs.
