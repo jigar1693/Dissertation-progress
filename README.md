@@ -8,3 +8,4 @@ Literature review done with 1st and 2nd theme.
 Proper formatting done 
 Research paper on tenancy apps
 Finalized the APP and solved bugs.
+Reading Landlord and Tenant book, research papers for Literature review
