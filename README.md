@@ -9,3 +9,4 @@ Proper formatting done
 Research paper on tenancy apps
 Finalized the APP and solved bugs.
 Reading Landlord and Tenant book, research papers for Literature review
+Still working on literature review.
