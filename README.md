@@ -12,3 +12,4 @@ Reading Landlord and Tenant book, research papers for Literature review
 Still working on literature review.
 Completed 4th literature review theme. Last theme remaining.
 Will start writing chapter 3 after literature review today.
+Completed second last literature review theme. 
