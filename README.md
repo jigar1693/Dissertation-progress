@@ -14,3 +14,4 @@ Completed 4th literature review theme. Last theme remaining.
 Will start writing chapter 3 after literature review today.
 Completed second last literature review theme. 
 Literature review fully completed.
+Chapter 3 and 4 in progress.
