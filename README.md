@@ -16,3 +16,5 @@ Completed second last literature review theme.
 Literature review fully completed.
 Chapter 3 and 4 in progress.
 Research approach and strategy in progress. 
+Chapter 3 completed and uploaded. 
+Chapter 4 in progress
