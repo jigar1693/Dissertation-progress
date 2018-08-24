@@ -23,3 +23,4 @@ Chapter 4 in progress.
 Chapter 4 implementation section in progress. 
 Self reflection completed.
 Chapter 4 and 5 in progress.
+Changes done according to supervisor.
