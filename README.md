@@ -23,4 +23,7 @@ Chapter 4 in progress.
 Chapter 4 implementation section in progress. 
 Self reflection completed.
 Chapter 4 and 5 in progress.
-Changes done according to supervisor.
+Changes done to diagrams according to supervisor.
+Chapter 6 completed.
+Self-reflection completed.
+Chapter 5 interpretation of results in progress and conclusion pending. 
